@@ -1,4 +1,4 @@
-Mojito🍸 is a visually engaging cocktail menu web app built with React, GSAP, and Tailwind CSS
+Mojito is a visually engaging cocktail menu web app built with React, GSAP, and Tailwind CSS 🍸
 
 The project was created as an exploration into modern web animation techniques, with a focus on enhancing user experience through smooth, scroll-driven motion and interactive transitions.
 
